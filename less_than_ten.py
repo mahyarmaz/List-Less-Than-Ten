@@ -1,3 +1,4 @@
+#Gets a list of numbers and returns those less than 10
 list_name = []
 list_name = (input('Please enter a list of numbers separated by space: '))
 list = list_name.split()
